@@ -1,2 +1,3 @@
-# recoil_todolist
-recoil로 만들어보는 TodoList
+# recoil_todolist 😎
+
+`recoil`로 만들어보는 TodoList
